@@ -1,5 +1,10 @@
 name: Sync AI bookmarks
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync.py'
+      - '.github/workflows/sync.yml'
   workflow_dispatch:
   schedule:
     - cron: '23 * * * *'
