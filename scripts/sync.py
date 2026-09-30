@@ -32,7 +32,7 @@ def scope(root, children):
     selected = {ROOT: root}
     while True:
         additions = {c['_id']: c for c in children
-                     if c.get('parent', {}).get('$id') in selected and c['_id'] not in selected}
+                     if (c.get('parent') or {}).get('$id') in selected and c['_id'] not in selected}
         if not additions:
             return selected
         selected.update(additions)
@@ -62,13 +62,13 @@ def collect(token):
     for page in range(10000):
         items = get(f'raindrops/{ROOT}?nested=true&perpage=50&page={page}&sort=title', token)['items']
         for item in items:
-            cid = item.get('collection', {}).get('$id')
+            cid = (item.get('collection') or {}).get('$id')
             if cid not in selected:
                 raise RuntimeError('Out-of-scope bookmark: export cancelled')
             if item['_id'] in seen:
                 raise RuntimeError('Collection changed during pagination; retry later')
             seen.add(item['_id'])
-            rows.append({k: item.get(k, '') for k in ('title', 'link', 'excerpt', 'note', 'tags')} | {'folder': folder_path(cid, selected)})
+            rows.append({k: (item.get(k) or '') for k in ('title', 'link', 'excerpt', 'note', 'tags')} | {'folder': folder_path(cid, selected)})
         if len(items) < 50:
             break
     else:
@@ -120,5 +120,8 @@ if __name__ == '__main__':
         main()
     except Exception as error:
         # Never print response payloads, authentication headers or bookmark data
+        import traceback
+        traceback.print_tb(error.__traceback__)
         print('Sync failed: ' + (str(error) if isinstance(error, RuntimeError) else type(error).__name__), file=sys.stderr)
         sys.exit(1)
+
