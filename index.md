@@ -1,6 +1,6 @@
 # Указатель каталога ИИ
 
-Последняя успешная синхронизация: 2026-10-01T14:33:21+00:00
+Последняя успешная синхронизация: 2026-10-01T20:22:48+00:00
 
 [Полный каталог](bookmarks-ai.md)
 
@@ -216,6 +216,6 @@
 - copilot.microsoft.com | Copilot: ИИ-ассистент Microsoft: https://copilot.microsoft.com/
 - gemini.google.com | Gemini: ИИ-ассистент Google: https://gemini.google.com/app
 - grok.com | Grok: ИИ-ассистент: https://grok.com/
-- kimi.com | Kimi: ИИ-ассистент: https://www.kimi.com/
+- kimi.ai | Kimi: ИИ-ассистент: https://www.kimi.ai/
 - meta.ai | Meta AI: ИИ-ассистент: https://www.meta.ai/
 - perplexity.ai | Perplexity: поиск и ответы с источниками: https://www.perplexity.ai/
