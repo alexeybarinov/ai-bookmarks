@@ -1,6 +1,6 @@
 # Указатель каталога ИИ
 
-Последняя успешная синхронизация: 2026-10-01T01:20:34+00:00
+Последняя успешная синхронизация: 2026-10-01T07:14:40+00:00
 
 [Полный каталог](bookmarks-ai.md)
 
@@ -79,6 +79,45 @@
 - navbar.gallery | Примеры меню навигации: https://www.navbar.gallery/
 - refero.design | Refero: примеры интерфейсов и пользовательских сценариев: https://refero.design/
 - unsection.com | Примеры секций веб-страниц: https://www.unsection.com/
+## ИИ / Веб-дизайн / Примеры дизайна / Визуальный стиль и подборки
+
+- are.na | Тематические коллекции идей и материалов: https://www.are.na/
+- cosmos.so | Коллекции изображений и визуальных идей: https://www.cosmos.so/
+- designspiration.com | Вдохновение для графики и типографики: https://www.designspiration.com/
+- pinterest.com | Визуальные идеи и доски референсов: https://www.pinterest.com/
+- savee.com | Коллекции визуальных референсов: https://savee.com/
+## ИИ / Веб-дизайн / Примеры дизайна / Интерфейсы и блоки
+
+- behance.net | Дизайнерские проекты и портфолио: https://www.behance.net/
+- collectui.com | Примеры экранов и элементов интерфейса: https://collectui.com/
+- dribbble.com | Идеи интерфейсов и работы дизайнеров: https://dribbble.com/
+- web.muz.li | Подборки дизайна и визуальных идей: https://web.muz.li/
+## ИИ / Веб-дизайн / Примеры дизайна / Коммерческие сайты и магазины
+
+- curated.design | Референсы дизайна действующих сайтов: https://curated.design/
+- httpster.net | Подборка выразительных веб-сайтов: https://httpster.net/
+- lapa.ninja | Примеры лендингов и коммерческих сайтов: https://www.lapa.ninja/
+- minimal.gallery | Подборка лаконичного веб-дизайна: https://minimal.gallery/
+- onepagelove.com | Примеры одностраничных сайтов: https://onepagelove.com/
+- siteinspire.com | Подборка дизайна реальных сайтов: https://www.siteinspire.com/
+- webdesign-inspiration.com | Идеи дизайна сайтов для разных ниш: https://www.webdesign-inspiration.com/
+## ИИ / Веб-дизайн / Примеры дизайна / Лендинги и онлайн-сервисы
+
+- landingfolio.com | Референсы лендингов и отдельных блоков: https://www.landingfolio.com/
+- saaslandingpage.com | Примеры сайтов онлайн-сервисов: https://saaslandingpage.com/
+## ИИ / Веб-дизайн / Примеры дизайна / Премиальные сайты
+
+- awwwards.com | Премированные сайты и идеи веб-дизайна: https://www.awwwards.com/
+- cssdesignawards.com | Премированные сайты и интерфейсы: https://www.cssdesignawards.com/
+- csswinner.com | Галерея сайтов с дизайнерскими наградами: https://www.csswinner.com/
+- hoverstat.es | Необычный и экспериментальный веб-дизайн: https://www.hoverstat.es/
+- land-book.com | Референсы сайтов и посадочных страниц: https://land-book.com/
+- showreel.design | Примеры анимации и презентационных роликов: https://showreel.design/
+- supahero.io | Примеры первых экранов сайтов: https://supahero.io/
+- thefwa.com | Награды за креативные цифровые проекты: https://thefwa.com/
+## ИИ / Веб-дизайн / Примеры дизайна / Экспериментальный дизайн
+
+- brutalistwebsites.com | Примеры сайтов в стиле брутализм: https://brutalistwebsites.com/
 ## ИИ / Веб-дизайн / Промпты и шаблоны сайтов
 
 - motionsite.ai | MotionSite: промпты анимированных сайтов: https://www.motionsite.ai/
