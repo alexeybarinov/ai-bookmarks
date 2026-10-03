@@ -1,6 +1,6 @@
 # Указатель каталога ИИ
 
-Последняя успешная синхронизация: 2026-10-03T02:03:58+00:00
+Последняя успешная синхронизация: 2026-10-03T08:14:31+00:00
 
 [Полный каталог](bookmarks-ai.md)
 
@@ -16,6 +16,7 @@
 - cline | 69k* | ИИ-агент для создания и исправления кода: https://github.com/cline/cline
 - crewAI | 59k* | Создание команд ИИ-агентов и автоматизация задач: https://github.com/crewAIInc/crewAI
 - deepseek-harness | 238k* | Плагинная среда ИИ-агентов DeepSeek: https://github.com/deepseek-ai/deepseek-harness
+- lovable.dev | AI-конструктор full-stack приложений и сайтов по промту: https://lovable.dev/dashboard
 - openclaw.ai | OpenClaw: персональный ИИ-ассистент: https://openclaw.ai/
 - opencode.ai | OpenCode: агент для работы с кодом: https://opencode.ai/
 - ruflo.pro | Ruflo: справочный сайт по работе агентов: https://ruflo.pro/claude-code
