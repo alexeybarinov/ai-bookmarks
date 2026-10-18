@@ -1,6 +1,6 @@
 # Указатель каталога ИИ
 
-Последняя успешная синхронизация: 2026-10-18T06:00:37+00:00
+Последняя успешная синхронизация: 2026-10-18T11:18:26+00:00
 
 [Полный каталог](bookmarks-ai.md)
 
@@ -127,6 +127,7 @@
 ## ИИ / Веб-дизайн / Создание интерфейсов
 
 - agentation | 4k* | Визуальные замечания к интерфейсу для агента: https://github.com/benjitaylor/agentation
+- agentation.com | Визуальная обратная связь для AI-агентов по интерфейсу: https://www.agentation.com/
 - awesome-design-md | 118k* | Готовые описания дизайн-систем для ИИ: https://github.com/VoltAgent/awesome-design-md
 - impeccable | 72k* | Создание, проверка и улучшение дизайна интерфейсов: https://github.com/pbakaus/impeccable
 - stitch.withgoogle.com | Stitch: проектирование интерфейсов с ИИ: https://stitch.withgoogle.com/?pli=1
